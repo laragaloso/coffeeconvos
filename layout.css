@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 2;
+  border-color: #654321;
+}
+
+.container {
+  border: 10px solid #654321;
+  padding: 0px;
+  background-image: url("background.jpg");
+  background-size: center top;
+  background-position-x: center top, contain;
+  text-align: center;
+  padding: 10px;
+}
+
+#about{
+  border : 8px solid #654321;
+  font-size: 50px;
+  font-color: #654321; 
+  font-weight: bold;
+  background-image: url("Images/about us.jpg");
+}
+
+#event{
+  border : 8px solid #654321;
+  font-size: 50px;
+  font-color: #654321; 
+  font-weight: bold;
+  border-color: #654321;
+}
+
+#contact{
+ border : 8px solid #654321; 
+ background-image: url("Images/header.jpg");
+
+}
+.web{
+    color: brown;
+    position: relative;
+    margin-right: 10px;
+    margin-left: 5px;
+}
